@@ -6,3 +6,4 @@
 .vscode/
 *.png
 __pycache__
+test_simple.py
